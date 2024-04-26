@@ -1,3 +1,8 @@
-A demonstration of how to start using D3 version 6.
+## The impact of genre on movie ratings
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ia_DwVMXwgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This stacked bar chart gives the percentage of each rating
+level within different movie genres. The aim is to show the
+impact of genre on movie ratings. When the mouse hovers over
+each bar, you can see pop-ups of accurate percentage of each
+rating level within each genre. Total percentage is 1,
+representing 100%.
